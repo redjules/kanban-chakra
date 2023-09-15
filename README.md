@@ -1,7 +1,8 @@
 # DnD Kanban Board
-### A modern drag and droppable kanban board. <br>
+In this project, I've built a modern drag and droppable kanban board.
 
 
+# Snapshot
 ![preview](https://user-images.githubusercontent.com/16454253/187617291-a1ef81d1-9149-43bb-a6f4-5056cd602236.png)
 
 
