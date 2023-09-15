@@ -1,6 +1,5 @@
 # DnD Kanban Board
-In this project, I've built a modern drag and droppable kanban board.
-
+In this project, I've built a modern drag and droppable kanban board using Chakra UI, a modern component library for React.
 
 # Snapshot
 
