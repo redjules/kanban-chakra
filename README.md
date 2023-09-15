@@ -3,9 +3,8 @@ In this project, I've built a modern drag and droppable kanban board.
 
 
 # Snapshot
-![preview](https://user-images.githubusercontent.com/16454253/187617291-a1ef81d1-9149-43bb-a6f4-5056cd602236.png)
 
-
+<img width="1156" alt="Screenshot 2023-09-15 at 11 01 42" src="https://github.com/redjules/kanban-chakra/assets/106017493/99ada565-3764-40b5-bc5f-59550b5f3e02">
 
 ## Launching the app
 
